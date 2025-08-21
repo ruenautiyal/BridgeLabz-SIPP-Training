@@ -16,4 +16,4 @@ public class LeapYearLogical {
 
         sc.close();
     }
-}}
+}
